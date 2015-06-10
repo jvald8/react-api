@@ -1,0 +1,27 @@
+{
+  "name": "react-api",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jvald8/react-api",
+  "authors": [
+    "Jon Ringvald <jvald8@gmail.com>"
+  ],
+  "description": "react api",
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "api",
+    "stuff",
+    "whatever"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
